@@ -18,7 +18,7 @@
 
 [![Narrative Film: Jester's Story](.images/jesters-story.png)](https://www.youtube.com/watch?v=LHXLTMRAO74&ab_channel=AtHackCTF)
 
-## Obtain All Challenge
+## Obtain All Challenges
 
 You can fetch all challenges by cloning this repo recursively (including submodules):
 ```
