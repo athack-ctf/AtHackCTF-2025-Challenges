@@ -3,7 +3,6 @@
 </p>
 
 ---
-
 # @HACK 2025 - CTF Challenges
 > All challenges form @HACK 2025.
 
@@ -18,6 +17,14 @@
 > For an immersive experience into the theme of @Hack 2025, watch the short film: _Jester's Story_.
 
 [![Narrative Film: Jester's Story](.images/jesters-story.png)](https://www.youtube.com/watch?v=LHXLTMRAO74&ab_channel=AtHackCTF)
+
+## Obtain All Challenge
+
+You can fetch all challenges by cloning this repo recursively (including submodules):
+```
+git clone --recursive https://github.com/athack-ctf/AtHackCTF-2025-Challenges.git
+```
+Alternatively, you can explore each challenge separately by checking its individual repo (see below).
 
 ## All Challenges
 
