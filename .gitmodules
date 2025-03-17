@@ -1,0 +1,159 @@
+[submodule "AI/ai-leaky-relu"]
+	path = AI/ai-leaky-relu
+	url = https://github.com/athack-ctf/chall2025-ai-leaky-relu
+[submodule "Crypto/alcohollisions"]
+	path = Crypto/alcohollisions
+	url = https://github.com/athack-ctf/chall2025-alcohollisions
+[submodule "Crypto/are-you-playing-fair"]
+	path = Crypto/are-you-playing-fair
+	url = https://github.com/athack-ctf/chall2025-are-you-playing-fair
+[submodule "Crypto/dual-duel"]
+	path = Crypto/dual-duel
+	url = https://github.com/athack-ctf/chall2025-dual-duel
+[submodule "Forensics/breach"]
+	path = Forensics/breach
+	url = https://github.com/athack-ctf/chall2025-breach
+[submodule "Forensics/forgotten-secret"]
+	path = Forensics/forgotten-secret
+	url = https://github.com/athack-ctf/chall2025-forgotten-secret
+[submodule "Forensics/lost-password"]
+	path = Forensics/lost-password
+	url = https://github.com/athack-ctf/chall2025-lost-password
+[submodule "Forensics/mft-101"]
+	path = Forensics/mft-101
+	url = https://github.com/athack-ctf/chall2025-mft-101
+[submodule "Forensics/mft-201"]
+	path = Forensics/mft-201
+	url = https://github.com/athack-ctf/chall2025-mft-201
+[submodule "Forensics/phantom-trails"]
+	path = Forensics/phantom-trails
+	url = https://github.com/athack-ctf/chall2025-phantom-trails
+[submodule "Forensics/relics-of-the-past"]
+	path = Forensics/relics-of-the-past
+	url = https://github.com/athack-ctf/chall2025-relics-of-the-past
+[submodule "Forensics/rogue-signals"]
+	path = Forensics/rogue-signals
+	url = https://github.com/athack-ctf/chall2025-rogue-signals
+[submodule "Forensics/the-locked-eternity"]
+	path = Forensics/the-locked-eternity
+	url = https://github.com/athack-ctf/chall2025-the-locked-eternity
+[submodule "Hardware/big-jester-is-watching-you"]
+	path = Hardware/big-jester-is-watching-you
+	url = https://github.com/athack-ctf/chall2025-big-jester-is-watching-you
+[submodule "Hardware/rfid-1-cleartext"]
+	path = Hardware/rfid-1-cleartext
+	url = https://github.com/athack-ctf/chall2025-rfid-1-cleartext
+[submodule "Hardware/rfid-2-uidentity-crisis"]
+	path = Hardware/rfid-2-uidentity-crisis
+	url = https://github.com/athack-ctf/chall2025-rfid-2-uidentity-crisis
+[submodule "Hardware/rfid-3-pay2win"]
+	path = Hardware/rfid-3-pay2win
+	url = https://github.com/athack-ctf/chall2025-rfid-3-pay2win
+[submodule "Miscellaneous/shredded-letter"]
+	path = Miscellaneous/shredded-letter
+	url = https://github.com/athack-ctf/chall2025-shredded-letter
+[submodule "Miscellaneous/sokoban"]
+	path = Miscellaneous/sokoban
+	url = https://github.com/athack-ctf/chall2025-sokoban
+[submodule "OSINT/i-humans-i-know-everything-and-read-between-the-lines"]
+	path = OSINT/i-humans-i-know-everything-and-read-between-the-lines
+	url = https://github.com/athack-ctf/chall2025-i-humans-i-know-everything-and-read-between-the-lines
+[submodule "OSINT/man-hat-sin-cos-1a"]
+	path = OSINT/man-hat-sin-cos-1a
+	url = https://github.com/athack-ctf/chall2025-man-hat-sin-cos-1a
+[submodule "OSINT/man-hat-sin-cos-1b"]
+	path = OSINT/man-hat-sin-cos-1b
+	url = https://github.com/athack-ctf/chall2025-man-hat-sin-cos-1b
+[submodule "OSINT/man-hat-sin-cos-2"]
+	path = OSINT/man-hat-sin-cos-2
+	url = https://github.com/athack-ctf/chall2025-man-hat-sin-cos-2
+[submodule "OSINT/man-hat-sin-cos-3"]
+	path = OSINT/man-hat-sin-cos-3
+	url = https://github.com/athack-ctf/chall2025-man-hat-sin-cos-3
+[submodule "Pwn/cwe-120"]
+	path = Pwn/cwe-120
+	url = https://github.com/athack-ctf/chall2025-cwe-120
+[submodule "Pwn/detached-then-forgotten"]
+	path = Pwn/detached-then-forgotten
+	url = https://github.com/athack-ctf/chall2025-detached-then-forgotten
+[submodule "Pwn/formatting-is-weird"]
+	path = Pwn/formatting-is-weird
+	url = https://github.com/athack-ctf/chall2025-formatting-is-weird
+[submodule "Pwn/little-squid-game"]
+	path = Pwn/little-squid-game
+	url = https://github.com/athack-ctf/chall2025-little-squid-game
+[submodule "Pwn/one-hundred-percent-wrong"]
+	path = Pwn/one-hundred-percent-wrong
+	url = https://github.com/athack-ctf/chall2025-one-hundred-percent-wrong
+[submodule "Pwn/stack-smashing"]
+	path = Pwn/stack-smashing
+	url = https://github.com/athack-ctf/chall2025-stack-smashing
+[submodule "Pwn/vimprisoned"]
+	path = Pwn/vimprisoned
+	url = https://github.com/athack-ctf/chall2025-vimprisoned
+[submodule "RE/do-not-mov"]
+	path = RE/do-not-mov
+	url = https://github.com/athack-ctf/chall2025-do-not-mov
+[submodule "RE/jean-guillaume-auguste-victor"]
+	path = RE/jean-guillaume-auguste-victor
+	url = https://github.com/athack-ctf/chall2025-jean-guillaume-auguste-victor
+[submodule "RE/misoperate"]
+	path = RE/misoperate
+	url = https://github.com/athack-ctf/chall2025-misoperate
+[submodule "RE/sandboxer"]
+	path = RE/sandboxer
+	url = https://github.com/athack-ctf/chall2025-sandboxer
+[submodule "Stegano/audacious-tunes"]
+	path = Stegano/audacious-tunes
+	url = https://github.com/athack-ctf/chall2025-audacious-tunes
+[submodule "Stegano/dora"]
+	path = Stegano/dora
+	url = https://github.com/athack-ctf/chall2025-dora
+[submodule "Stegano/flip-fix-frenzy"]
+	path = Stegano/flip-fix-frenzy
+	url = https://github.com/athack-ctf/chall2025-flip-fix-frenzy
+[submodule "Stegano/hidden-in-panoramic-sight"]
+	path = Stegano/hidden-in-panoramic-sight
+	url = https://github.com/athack-ctf/chall2025-hidden-in-panoramic-sight
+[submodule "Stegano/noteable-notes"]
+	path = Stegano/noteable-notes
+	url = https://github.com/athack-ctf/chall2025-noteable-notes
+[submodule "Stegano/steganoopsies"]
+	path = Stegano/steganoopsies
+	url = https://github.com/athack-ctf/chall2025-steganoopsies
+[submodule "Web/apocalypse"]
+	path = Web/apocalypse
+	url = https://github.com/athack-ctf/chall2025-apocalypse
+[submodule "Web/cardjacker"]
+	path = Web/cardjacker
+	url = https://github.com/athack-ctf/chall2025-cardjacker
+[submodule "Web/cwe-78"]
+	path = Web/cwe-78
+	url = https://github.com/athack-ctf/chall2025-cwe-78
+[submodule "Web/insecure-by-design"]
+	path = Web/insecure-by-design
+	url = https://github.com/athack-ctf/chall2025-insecure-by-design
+[submodule "Web/template-of-doom-1"]
+	path = Web/template-of-doom-1
+	url = https://github.com/athack-ctf/chall2025-template-of-doom-1
+[submodule "Web/template-of-doom-2"]
+	path = Web/template-of-doom-2
+	url = https://github.com/athack-ctf/chall2025-template-of-doom-2
+[submodule "Web/tldr-too-long-didnt-read"]
+	path = Web/tldr-too-long-didnt-read
+	url = https://github.com/athack-ctf/chall2025-tldr-too-long-didnt-read
+[submodule "Web/token-of-deceit"]
+	path = Web/token-of-deceit
+	url = https://github.com/athack-ctf/chall2025-token-of-deceit
+[submodule "Web/upload-deception-101"]
+	path = Web/upload-deception-101
+	url = https://github.com/athack-ctf/chall2025-upload-deception-101
+[submodule "Web/way-too-expensive"]
+	path = Web/way-too-expensive
+	url = https://github.com/athack-ctf/chall2025-way-too-expensive
+[submodule "Web/xss-one"]
+	path = Web/xss-one
+	url = https://github.com/athack-ctf/chall2025-xss-one
+[submodule "Web/xss-two"]
+	path = Web/xss-two
+	url = https://github.com/athack-ctf/chall2025-xss-two
