@@ -9,7 +9,7 @@
 ## About @HACK 2025
 @HACK 2025 is the 2nd edition of @HACK - a Canadian Capture The Flag (CTF) competition, hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal.
  - **Location**: Concordia University, Montreal
- - **Dates**: March 15-16, 2025
+ - **Dates**: March 1st-2nd, 2025
  - **Prizes**: $16K in cash + nearly $6K in sponsor prizes
 
 ## Narrative Film: Jester's Story
