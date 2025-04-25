@@ -4,7 +4,7 @@
 
 ---
 # @HACK 2025 - CTF Challenges
-> All challenges form @HACK 2025.
+> All challenges from @HACK 2025.
 
 ## About @HACK 2025
 @HACK 2025 is the 2nd edition of @HACK - a Canadian Capture The Flag (CTF) competition, hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal.
