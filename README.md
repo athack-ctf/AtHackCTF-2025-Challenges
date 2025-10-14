@@ -3,11 +3,11 @@
 </p>
 
 ---
-# @HACK 2025 - CTF Challenges
-> All challenges from @HACK 2025.
+# @Hack 2025 - CTF Challenges
+> All challenges from @Hack 2025.
 
-## About @HACK 2025
-@HACK 2025 is the 2nd edition of @HACK - a Canadian Capture The Flag (CTF) competition, hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal.
+## About @Hack 2025
+@Hack 2025 is the 2nd edition of @Hack - a Canadian Capture The Flag (CTF) competition, hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal.
  - **Location**: Concordia University, Montreal
  - **Dates**: March 1st-2nd, 2025
  - **Prizes**: $16K in cash (💰) + nearly $6K in sponsor prizes (🎁)
@@ -119,3 +119,4 @@ Alternatively, you can explore each challenge separately by checking its individ
 | [AtHackCTF](https://www.instagram.com/athackctf)                                                                    | [Hexploit Alliance](https://www.instagram.com/hexploitalliance)                                                            | [TECHNATIONca](https://www.instagram.com/technationca)                                                                 |
 |---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | ![](https://quickchart.io/qr?text=https%3A%2F%2Fwww.instagram.com%2Fathackctf%2F&size=200&dark=4440A0&light=F5DC38) | ![](https://quickchart.io/qr?text=https%3A%2F%2Fwww.instagram.com%2Fhexploitalliance%2F&size=200&dark=eed23b&light=000000) | ![](https://quickchart.io/qr?text=https%3A%2F%2Fwww.instagram.com%2Ftechnationca%2F&size=200&dark=000000&light=FFFFFF) |
+
