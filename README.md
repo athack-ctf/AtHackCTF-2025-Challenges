@@ -110,6 +110,7 @@ Alternatively, you can explore each challenge separately by checking its individ
 - [Isabella](https://github.com/isabellagudd)
 - [Jeslyn](https://github.com/JenLys)
 - [Kalyani](https://github.com/highfunctioning)
+- [Massimo](https://github.com/Extinctable)
 - [Vikas](https://github.com/vikassharma-3)
 - [William Charron-Boyle](https://github.com/jws412)
 - [William Mailhot](https://github.com/WilliamMailhot)
@@ -119,4 +120,5 @@ Alternatively, you can explore each challenge separately by checking its individ
 | [AtHackCTF](https://www.instagram.com/athackctf)                                                                    | [Hexploit Alliance](https://www.instagram.com/hexploitalliance)                                                            | [TECHNATIONca](https://www.instagram.com/technationca)                                                                 |
 |---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | ![](https://quickchart.io/qr?text=https%3A%2F%2Fwww.instagram.com%2Fathackctf%2F&size=200&dark=4440A0&light=F5DC38) | ![](https://quickchart.io/qr?text=https%3A%2F%2Fwww.instagram.com%2Fhexploitalliance%2F&size=200&dark=eed23b&light=000000) | ![](https://quickchart.io/qr?text=https%3A%2F%2Fwww.instagram.com%2Ftechnationca%2F&size=200&dark=000000&light=FFFFFF) |
+
 
